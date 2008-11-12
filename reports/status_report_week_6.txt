@@ -1,0 +1,25 @@
+Status Report for Nov. 12th 2008
+
+== Coding ==
+
+* We have chosen the coding style
+* The development environment will be eclipse-based, with the use of PyDev plugin
+* In addition, some of the code could be written using vim, based on the source file location
+* wiki documentation started
+
+== Time planning issues ==
+
+* none so far, we are inside the proposed deadlines
+
+== Self-Evaluation ==
+
+* Based on the well-defined architecture, the first stages are simple and straightforward.
+* The load inside the team wasn’t actually balanced
+* Mircea’s involvement was greater that George’s
+
+== Proposed Solutions and Technologies ==
+
+* The technologies are rather new and used in many current research projects.
+* wiki based documentation is easy to maintain and develop. It also provides concurrent access.
+
+
