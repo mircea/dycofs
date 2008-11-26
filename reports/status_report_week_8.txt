@@ -1,0 +1,13 @@
+Status Report for Nov. 26th 2008
+
+== Time planning issues ==
+
+* timing is not very close to the original plan
+* we are about 2 weeks behind
+* planing stage is completed
+* implementation stage is at an early stage
+
+== Self-Evaluation ==
+
+* lack of time prevented us from having a more advanced implementation stage
+
